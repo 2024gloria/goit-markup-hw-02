@@ -38,8 +38,8 @@ a {
   letter-spacing: 0.02em;
   text-decoration: none;
 }
-.adress-link:hover,
-.adress-link:focus,
+.address-link:hover,
+.address-link:focus,
 .nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
