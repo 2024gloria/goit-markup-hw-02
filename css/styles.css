@@ -17,16 +17,17 @@ a {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
-}
-.logo-name {
   color: #4d5ae5;
+}
+.nav-logo {
+  color: #2e2f42;
 }
 
 .logo:focus,
 .logo:hover {
   text-decoration: underline;
 }
+
 .adress-link {
   color: #434455;
   font-weight: 400;
@@ -55,57 +56,55 @@ a {
 .section-team-item {
   background-color: #fff;
 }
-h1 {
+.image-titel {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
 }
-h2 {
+.titem {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
-h3 {
+.heading {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-p {
+.section-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-button {
+.image-botton {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
   font-family: inherit;
   cursor: pointer;
 }
-button:hover,
-button:focus {
+.image-botton:hover,
+.image-botton:focus {
   background-color: #404bbf;
 }
 .section-team {
   text-align: center;
   background-color: #f4f4fd;
 }
-footer {
+.footer {
   background-color: #2e2f42;
   color: #f4f4fd;
 }
 .footer-logo {
   color: #f4f4fd;
-  text-transform: uppercase;
-  text-decoration: none;
 }
